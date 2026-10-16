@@ -18,30 +18,14 @@ Bases de datos: PostgreSQL, MySQL, MongoDB, Redis y Cassandra.
 
 Herramientas: Git, GitHub y Docker.
 
-📂 Proyectos destacados
+
+## 📂 Proyectos destacados
 
 A continuación, presento algunos de los proyectos académicos en los que participé durante mi formación universitaria.
 
-Proyecto
-
-Descripción
-
-Repositorio
-
-Sistema de gestión de reclamos municipales
-
-Aplicación web para gestionar reclamos ciudadanos. Desarrollo de funcionalidades backend con FastAPI, autenticación, autorización y gestión de datos con PostgreSQL.
-
-Ver repositorio
-
-Aplicación de recetas
-
-Aplicación móvil desarrollada con Java para Android, integrada con una API REST en Spring Boot y una base de datos PostgreSQL. Permite crear, consultar y administrar recetas.
-
-Ver repositorio
-
-Proyecto de bases de datos NoSQL
-
-Implementación y análisis de soluciones de almacenamiento de datos utilizando MongoDB, Cassandra y Redis.
-
-Ver repositorio
+| Proyecto | Descripción | Repositorio |
+|---|---|---|
+| **Sistema de gestión de reclamos municipales** | Aplicación web para gestionar reclamos ciudadanos. Backend con FastAPI, autenticación, autorización y PostgreSQL. | [Ver repositorio](URL_DEL_REPOSITORIO) |
+| **Aplicación de recetas** | Aplicación móvil Android desarrollada en Java e integrada con una API REST en Spring Boot y PostgreSQL. Permite crear, consultar y administrar recetas. | [Ver repositorio](https://github.com/joacoss10/AppGodio) |
+| **Proyecto de bases de datos NoSQL** | Implementación y análisis de soluciones de almacenamiento con MongoDB, Cassandra y Redis. | [Ver repositorio](URL_DEL_REPOSITORIO) |
+  
