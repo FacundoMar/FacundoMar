@@ -17,17 +17,31 @@ Frontend: React, HTML y CSS.
 Bases de datos: PostgreSQL, MySQL, MongoDB, Redis y Cassandra.
 
 Herramientas: Git, GitHub y Docker.
-<!--
-**FacundoMar/FacundoMar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+📂 Proyectos destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A continuación, presento algunos de los proyectos académicos en los que participé durante mi formación universitaria.
+
+Proyecto
+
+Descripción
+
+Repositorio
+
+Sistema de gestión de reclamos municipales
+
+Aplicación web para gestionar reclamos ciudadanos. Desarrollo de funcionalidades backend con FastAPI, autenticación, autorización y gestión de datos con PostgreSQL.
+
+Ver repositorio
+
+Aplicación de recetas
+
+Aplicación móvil desarrollada con Java para Android, integrada con una API REST en Spring Boot y una base de datos PostgreSQL. Permite crear, consultar y administrar recetas.
+
+Ver repositorio
+
+Proyecto de bases de datos NoSQL
+
+Implementación y análisis de soluciones de almacenamiento de datos utilizando MongoDB, Cassandra y Redis.
+
+Ver repositorio
